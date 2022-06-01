@@ -137,6 +137,10 @@ footer p{
 }
 
 /* estilos form */
+.footer-contacto{
+    margin-top: 20px;
+    padding-top: 10px;
+}
 .form-register{
     width: 400px;
     background-color: #24303c;
@@ -209,6 +213,7 @@ footer p{
 }
 .footer-acercade{
     margin: auto;
+    padding-top: 15px;
 }
 
 /* estilos nuestros productos */
